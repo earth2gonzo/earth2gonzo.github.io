@@ -1,4 +1,6 @@
 site_name: Toowong History Group
+copyright: Copyright &copy; Toowong History Group, unless otherwise noted.
+
 theme:
   icon:
     logo: octicons/book-16
