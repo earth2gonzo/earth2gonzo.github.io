@@ -1,3 +1,8 @@
+---
+hide:
+  - footer
+---
+
 # Toowong History Group Books
 
 So much of the heritage of Toowong was being lost when developers began changing the face of our suburb by relocating old Queenslanders and replacing them with high rise residential units and town houses that many people in Toowong were becoming increasingly worried that our past was being destroyed. In the year 2000 the West Toowong Community Association, which had been formed to protect their local area, decided to set up a History Group to research the families who had built their lives and their homes in Toowong over the past 150 years.

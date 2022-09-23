@@ -1,3 +1,8 @@
+---
+hide:
+  - footer
+---
+
 # Toowong History
 
 **A brief history of Toowong by Marilyn England.**

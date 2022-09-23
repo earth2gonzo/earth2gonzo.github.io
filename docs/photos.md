@@ -1,3 +1,8 @@
+---
+hide:
+  - footer
+---
+
 # Toowong Historic Photos
 
 ![car](../assets/photos/car.jpg){ width=100% }
