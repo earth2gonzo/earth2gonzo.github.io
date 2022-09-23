@@ -1,7 +1,6 @@
 # Historic Toowong Maps
 
-<figure markdown>
-  ![car](../assets/photos/car.jpg)
-  <figcaption>Henry Brittain, Palmer family chauffeur at Easton Gray, c1910.
-Photo courtesy Arthur Palmer.</figcaption>
-</figure>
+![Chermside Park advertisement](assets/maps/chermside-park.jpg){ width="100%" }  
+
+
+*insert map images here*
