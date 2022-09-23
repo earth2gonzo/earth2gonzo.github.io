@@ -7,6 +7,6 @@ hide:
 
 ![car](../assets/photos/car.jpg){ width=100% }
 
-Henry Brittain, Palmer family chauffeur at Easton Gray, c1910. Photo courtesy Arthur Palmer.
+*Henry Brittain, Palmer family chauffeur at Easton Gray, c1910. Photo courtesy Arthur Palmer.*
 
-*insert photos here*
+*insert more photos here*
