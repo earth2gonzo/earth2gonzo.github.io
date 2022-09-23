@@ -16,4 +16,6 @@ hide:
 | Ballara Lane     |                                      |               |
 | Bent Street      |                                      |               |
 | Broseley Road    | My ancestor Thomas James Vickers Wood and his family migrated to Brisbane from England in 1877 on the Windsor Castle. He died on the 27 May 1915 in at Broseley Road, Toowong. The notice in the paper attached talks of him dying at his residence Broseley in Toowong. His father Henry Wood was from Broseley in Shropshire. | Jenny Wood    |
+| *insert more streets here* |   |   |
+
  
