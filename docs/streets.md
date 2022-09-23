@@ -1,6 +1,7 @@
 ---
 hide:
   - toc
+  - footer
 ---
 
 # Toowong Street Name Origins
