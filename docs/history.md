@@ -17,4 +17,17 @@ Richard Langler Drew was described as ‘the father of Toowong by J. B. Fewings 
 
 Perhaps the greatest single impetus to increased settlement in the Toowong district was the opening of the railway line from Brisbane to Indooroopilly in 1875. Four trains passed through Toowong each day (except Sundays) and this brought an upsurge in the development of shops and houses to provide for the many new residents.
 
+
+<div class="video-wrapper">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KjgmadlU4Z8?start=3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
 Toowong was proclaimed a shire in 1880, and it became a ‘villa’ suburb attracting elite public figures who built gracious residences to catch the cooling breezes on the summits of hills, along the ridges and along the river. Public amenities were planned and built, and in 1903 Toowong, with its newly formed Council, was proclaimed a ‘town’.
+
+<div class="video-wrapper">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ItI7i6hs0PA?start=4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
