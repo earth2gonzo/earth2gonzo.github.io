@@ -5,7 +5,7 @@ hide:
 
 # Toowong History Group Books
 
-![Cover of Toowong: A Community’s History](../assets/toowong-a-communitys-history.png){ width="30%" .off-glb } ![Cover of Toowong: Tales of Toowong and early Brisbane](../assets/tales-of-toowong-and-early-brisbane.png){ width="30%" .off-glb } ![Cover of Toowong: 1863 – 2011](../assets/toowong-1863-2011.png){ width="30%" .off-glb }
+![Cover of Toowong: A Community’s History](assets/toowong-a-communitys-history.png){ width="30%" .off-glb } ![Cover of Toowong: Tales of Toowong and early Brisbane](assets/tales-of-toowong-and-early-brisbane.png){ width="30%" .off-glb } ![Cover of Toowong: 1863 – 2011](assets/toowong-1863-2011.png){ width="30%" .off-glb }
 
 
 So much of the heritage of Toowong was being lost when developers began changing the face of our suburb by relocating old Queenslanders and replacing them with high rise residential units and town houses that many people in Toowong were becoming increasingly worried that our past was being destroyed. In the year 2000 the West Toowong Community Association, which had been formed to protect their local area, decided to set up a History Group to research the families who had built their lives and their homes in Toowong over the past 150 years.
@@ -18,18 +18,18 @@ With this in mind, in 2000 the Toowong History Group was formed to celebrate the
 
 Launched in 2003 to coincide with, and celebrate, the Centenary of Toowong. Since then two more books have been produced to record the vast amount of Toowong history which has since been collected.
 
-![Cover of Toowong: A Community’s History](../assets/toowong-a-communitys-history.png){ width="20%" }
+![Cover of Toowong: A Community’s History](assets/toowong-a-communitys-history.png){ width="20%" }
 
 ## Toowong: Tales of Toowong and early Brisbane
 
 This book contains the edited transcripts of talks on Queensland and local history, given by amateur and professional historians to Toowong History Group. Many of the images presented in the talks have been included.
 
-![Cover of Toowong: Tales of Toowong and early Brisbane](../assets/tales-of-toowong-and-early-brisbane.png){ width="20%" }
+![Cover of Toowong: Tales of Toowong and early Brisbane](assets/tales-of-toowong-and-early-brisbane.png){ width="20%" }
 ## Toowong: 1863 – 2011
 
 *insert description here*
 
-![Cover of Toowong: 1863 – 2011](../assets/toowong-1863-2011.png){ width="20%" }
+![Cover of Toowong: 1863 – 2011](assets/toowong-1863-2011.png){ width="20%" }
 
 ## Order one of more books
 
