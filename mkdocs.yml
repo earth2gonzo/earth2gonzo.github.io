@@ -1,0 +1,42 @@
+site_name: Toowong History Group
+theme:
+  icon:
+    logo: octicons/book-16
+  palette:
+    primary: blue
+    accent: light blue  
+  name: material
+  font:
+    text: Open Sans
+  features:
+    - navigation.instant
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/facebook 
+      link: https://www.facebook.com/toowonghistorygroup/
+      name: Facebook @toowonghistorygroup
+    - icon: fontawesome/solid/envelope
+      link: mailto:swha@ecn.net.au
+      name: Email us        
+
+markdown_extensions:
+  - tables
+  - attr_list
+  - md_in_html
+
+plugins:
+  - glightbox
+
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+  - Home: index.md
+  - Toowong History: history.md
+  - Photos: photos.md      
+  - Maps: maps.md    
+  - Streets: streets.md      
+  - Books: books.md        
+  - Contact Us: contact-us.md          
