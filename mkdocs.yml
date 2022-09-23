@@ -27,6 +27,7 @@ markdown_extensions:
   - md_in_html
 
 plugins:
+  - search
   - glightbox
 
 extra_css:
@@ -40,4 +41,3 @@ nav:
   - Streets: streets.md      
   - Books: books.md        
   - Contact Us: contact-us.md
-   
