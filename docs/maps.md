@@ -43,8 +43,7 @@
 
 ![Dunmore Estate Cribb's Paddock, Milton](assets/maps/dunmore-estate.jpg){ width="45%" }
 
-*[Dunmore Estate Cribb's Paddock, Milton / Isles, Love Land Agents ; D. F. Maclean, Surveryor.
-](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21104796330002061) 1899, State Library of Queensland*
+*[Dunmore Estate Cribb's Paddock, Milton / Isles, Love Land Agents ; D. F. Maclean, Surveryor.](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21104796330002061) 1899, State Library of Queensland*
 
 ## Goldicott 1902
 
