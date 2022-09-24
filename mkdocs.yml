@@ -2,8 +2,8 @@ site_name: Toowong History Group
 copyright: Copyright &copy; Toowong History Group, unless otherwise noted.
 
 theme:
-  icon:
-    logo: octicons/book-16
+#  icon:
+#    logo: octicons/book-16
   palette:
     primary: blue
     accent: light blue  
