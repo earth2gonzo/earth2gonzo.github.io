@@ -1,5 +1,10 @@
 # Toowong Historic Photos
 
+**Historic photos of Toowong people, places and events.**
+
+:fontawesome-regular-hand-pointer: Click a photo to expand the image. 
+
+
 ![car](assets/photos/car.jpg){ width=100% }
 
 *Henry Brittain, Palmer family chauffeur at Easton Gray, c1910. Photo courtesy Arthur Palmer.*
