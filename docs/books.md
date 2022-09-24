@@ -19,7 +19,12 @@ Toowong: Tales of Toowong and early Brisbane contains edited transcripts of talk
 
 ## Toowong: 1863 – 2011
 
-*insert description here*
+This book has three parts, with over 100 pages:
+
+1. Toowong - The early years from 1863
+2. Toowong - School days from the 1950s to the 1980s
+3. Toowong - Stories from its two memorial parks
+
 
 ![Cover of Toowong: 1863 – 2011](assets/toowong-1863-2011.png){ width="20%" }
 
