@@ -19,10 +19,11 @@ Perhaps the greatest single impetus to increased settlement in the Toowong distr
 
 </div>
 
-Toowong was proclaimed a shire in 1880, and it became a ‘villa’ suburb attracting elite public figures who built gracious residences to catch the cooling breezes on the summits of hills, along the ridges and along the river. Public amenities were planned and built, and in 1903 Toowong, with its newly formed Council, was proclaimed a ‘town’.
+Toowong was proclaimed a shire in 1880, and it became a ‘villa’ suburb attracting elite public figures who built gracious residences to catch the cooling breezes on the summits of hills, along the ridges and along the river. Public amenities were planned and built and in the 1903 round of local government changes Toowong was catapulted to the status of Town. This status was lost when the Greater Brisbane City Council was created in 1925, coalescing 20 local government areas into one monolith.
 
 <div class="video-wrapper">
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ItI7i6hs0PA?start=4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
+
