@@ -1,8 +1,3 @@
----
-hide:
-  - footer
----
-
 # Toowong History Group Books
 
 ![Cover of Toowong: A Community’s History](assets/toowong-a-communitys-history.png){ width="30%" .off-glb } ![Cover of Toowong: Tales of Toowong and early Brisbane](assets/tales-of-toowong-and-early-brisbane.png){ width="30%" .off-glb } ![Cover of Toowong: 1863 – 2011](assets/toowong-1863-2011.png){ width="30%" .off-glb }

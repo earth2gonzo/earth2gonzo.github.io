@@ -1,8 +1,3 @@
----
-hide:
-  - footer
----
-
 # Contact Us
 
 You can contact us via: 
