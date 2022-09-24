@@ -51,12 +51,17 @@
 
 *[Goldicott Toowong being re-subs. 1 to 29 of subs. and re-subs. of portions 250 to 253, Parish of Enoggera.](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21119893540002061) 1902, State Library of Queensland*
 
+## Brisbane Street Map 1904
+
+![Brisbane Street Map, 1904](assets/maps/brisbane-street-map-1904.webp){ width="45%" }
+
+*[Brisbane and suburbs, street and road map, with boundaries of local authorities](https://www.archivessearch.qld.gov.au/api/download_file/DR96381) Queensland State Archives, Item ID ITM634549. Cropped.* 
 
 ## Parish of Enoggera 
 
 ![Parish of Enoggera](assets/maps/parish-of-enoggera.jpg){ width="45%" }
 
-*[Plan of re-subdivision 61 of subdivision 12 of portion 26 and re-subdivisions 1 to 125 of subdivisions 4 and 2 of portions 27 and 28 Parish of Enoggera R. Gailey, Architect and Surveyor.](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21105013940002061) State Library of Queensland*
+*[Plan of re-subdivision 61 of subdivision 12 of portion 26 and re-subdivisions 1 to 125 of subdivisions 4 and 2 of portions 27 and 28 Parish of Enoggera R. Gailey, Architect and Surveyor.](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21105013940002061) No date, State Library of Queensland*
 
 ## Glen Olive Garden Estate 1924
 
