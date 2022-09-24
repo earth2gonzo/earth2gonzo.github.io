@@ -1,10 +1,18 @@
 ---
 hide:
   - toc
-  - footer
 ---
 
 # Toowong Street Name Origins
+
+**The origins of street names in Toowong.**
+
+Do you know other origin stories? Email us and if it checks out, we'll add it here.
+
+[Share a Toowong street name origin story](mailto:swha@ecn.net.au){ .md-button .md-button--primary }
+
+## Toowong Street Name Origins
+
 
 | Street&nbsp;Name      | Origins                              | Source        |
 | ---------------- | ------------------------------------ | ------------- |
