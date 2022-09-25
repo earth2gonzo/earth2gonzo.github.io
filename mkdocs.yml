@@ -12,6 +12,7 @@ theme:
     text: Open Sans
   features:
     - navigation.instant
+    - toc.follow
 
 extra:
   generator: false
