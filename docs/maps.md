@@ -25,6 +25,18 @@ The Ivy Estate map shows: Ivy Street, Lodge Street, Mount Street, Bent Street, O
 
 *[Ivy Estate, Toowong being subdivisions 1 to 172 of portion 294, and part of 293 : Parish of Enoggera.](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21112757610002061) 1884, State Library of Queensland*
 
+## Ironside Estate 1885 
+
+![Ironside Estate, Toowong](assets/maps/ironside-estate.jpg){ width="45%" }
+
+*[Ironside Estate : river frontages, Toowong.](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21212460300002061) 1885, State Library of Queensland*
+
+## Belgrave and Riverview Estate 
+
+![Belgrave and Riverview Estate, South Toowong](assets/maps/belgrave-and-riverview-estate.jpg){ width="45%" }
+
+*[Belgrave and Riverview Estate, South Toowong John W. Todd, Auctioneer ; Hamilton & Raff, surveyors.](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21104756680002061) no date, State Library of Queensland*
+
 ## Lang Farm Estate 188-
 
 The Lang Farm Estate map shows: the Toowong Railway Station, Moggill Road, Emma Street, and a Ferry Landing on the Brisbane River.
@@ -110,7 +122,7 @@ The Moore's Estate Estate map shows: Sylvan Road, Church Street, the Toowong Rai
 
 ## Curragh Bawn 1922
 
-![Curragh Bawn, Toowong.](assets/maps/curragh-bawn.jpg){ width="45%"  loading=lazy }
+![Curragh Bawn, Toowong.](assets/maps/curragh-bawn.jpg){ width="45%" loading=lazy }
 
 *[Curragh Bawn, Toowong.](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21190066110002061) 1922, State Library of Queensland*
 
