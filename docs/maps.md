@@ -82,6 +82,12 @@ The Moore's Estate map shows: Sylvan Road, Church Street, the Toowong Railway St
 
 *[The Terraces [Estate], Toowong near the Toowong railway station / John Cameron, Auctioneer.](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21105015830002061) 1870-1900, State Library of Queensland*
 
+## Pugh's Map of Brisbane 1892
+
+![Pugh's 1892 Map of Brisbane and Suburbs](assets/maps/pughs-map-brisbane-1892.jpg){ width="45%" loading=lazy }
+
+*[Map Brisbane and Suburbs Indexed with Street Name List - Pugh's 1892.](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/search/asset/40569/0) 1892, Brisbane City Council Archives*
+
 ## Dunmore Estate Cribb's Paddock 1899
 
 The Dunmore Estate map shows: Auchenflower Railway Station, River Road, Dunmore Terrace, Eagle Terrace, Lang Parade, Chasley Street, Lima Street, Fortitude Street, Kingford Street, John Street, Ridley Street, Grimes Street, Aldridge Street, Hobbs Street, Challinor Street, and Milton Road.
@@ -89,6 +95,13 @@ The Dunmore Estate map shows: Auchenflower Railway Station, River Road, Dunmore 
 ![Dunmore Estate Cribb's Paddock, Milton](assets/maps/dunmore-estate.jpg){ width="45%" loading=lazy }
 
 *[Dunmore Estate Cribb's Paddock, Milton / Isles, Love Land Agents ; D. F. Maclean, Surveryor.](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21104796330002061) 1899, State Library of Queensland*
+
+
+## Brisbane Land Owners c1900
+
+![Brisbane Land Owners c1900](assets/maps/brisbane-parish-land-owner-map-c1900.jpg){ width="45%" loading=lazy }
+
+*[Brisbane Parish Map showing landowners c1900.](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/search/asset/24597/0) Brisbane City Council Archives. Cropped.*
 
 ## Goldicott 1902
 
