@@ -12,7 +12,7 @@ Kensington, near Toowong Station shows: Kensington Terrace, Moggill Road, Gore P
 
 ![Plan of Kensington, Parish of Enoggera](assets/maps/kensington.jpg){ width="45%" }
 
-*[Plan of Kensington, Parish of Enoggera, to be sold by auction by John Cameron at his mart, on Monday, 28th Sepember, 1874.](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21112702950002061) State Library of Queensland*
+*[Plan of Kensington, Parish of Enoggera, to be sold by auction by John Cameron at his mart, on Monday, 28th September, 1874.](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21112702950002061) State Library of Queensland*
 
 ## Ivy Estate 1884 
 
@@ -109,7 +109,7 @@ The Stanley Terrace Estate map shows: Stanley Terrace, Miskin Road, and Union St
 
 ## Brisbane Street Map 1904
 
-![Brisbane Street Map, 1904](assets/maps/brisbane-street-map-1904.webp){ width="45%" loading=lazy }
+![Brisbane Street Map, 1904](assets/maps/brisbane-street-map-1904.jpg){ width="45%" loading=lazy }
 
 *[Brisbane and suburbs, street and road map, with boundaries of local authorities](https://www.archivessearch.qld.gov.au/api/download_file/DR96381) Queensland State Archives, Item ID ITM634549. Cropped.* 
 
