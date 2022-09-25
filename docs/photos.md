@@ -23,9 +23,8 @@ There are lots of historic photos of Toowong online:
 
 ## Other Historic Photos
 
+Many other historic photos of Toowong can be found in [our three books](books.md).
+
 ![car](assets/photos/car.jpg){ width=100% }
 
 *Henry Brittain, Palmer family chauffeur at Easton Gray, c1910. Photo courtesy Arthur Palmer.*
-
-
-
