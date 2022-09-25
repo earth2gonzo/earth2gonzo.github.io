@@ -24,6 +24,8 @@ extra:
       name: Email us        
 
 markdown_extensions:
+  - toc:
+      title: On this page
   - tables
   - attr_list
   - md_in_html:
