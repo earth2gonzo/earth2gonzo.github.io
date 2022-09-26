@@ -74,7 +74,7 @@ The Moore's Estate map shows: Sylvan Road, Church Street, the Toowong Railway St
 
 The Sylvan Road Estate map shows: Sylvan Road, Milton Road, Weinholt Street, and the Toowong and Auchenflower Railway Stations.
 
-![Sylvan Road Estate, Toowong](assets/maps/sylvan-road-estate-front-page.jpg){ width="45%" } ![Sylvan Road Estate, Toowong](assets/maps/sylvan-road-estate-back.jpg){ width="45%" }
+![Sylvan Road Estate, Toowong](assets/maps/sylvan-road-estate-front-page.jpg){ width="45%" } ![Sylvan Road Estate, Toowong](assets/maps/sylvan-road-estate-back-page.jpg){ width="45%" }
 
 *[Sylvan Road Estate, Toowong.](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21198544550002061) 1890, State Library of Queensland*
 
