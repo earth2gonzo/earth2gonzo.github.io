@@ -117,7 +117,6 @@ The Goldicott Estate map shows: Sherwood Road, Kensington Terrace, and Grove Str
 
 The Stanley Terrace Estate map shows: Stanley Terrace, Miskin Road, and Union Street.
 
-
 ![Stanley Terrace Estate, Toowong](assets/maps/stanley-terrace-estate.jpg){ width="45%" loading=lazy }
 
 *[Stanley Terrace Estate Toowong : being 42 re subdivisions of Portion 257, Parish of Enoggera.](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21186734930002061) 1904, State Library of Queensland.* 
@@ -136,6 +135,8 @@ The Stanley Terrace Estate map shows: Stanley Terrace, Miskin Road, and Union St
 
 ## Rathdonnell Estate 1911
 
+The Rathdonnell Estate map shows: Heussler Terrace, Weinholt Street, Irving Street, and Agnes Street, Payne Street, and Milton Road.
+
 ![Rathdonnell Estate, Toowong.](assets/maps/rathdonnell-estate.jpg){ width="45%" loading=lazy }
 
 *[Rathdonnell Estate, Toowong, near Auchenflower station.](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21105029750002061) 1911, State Library of Queensland*
@@ -150,17 +151,23 @@ The Curragh Bawn map shows: Sylvan Road, River Road, Bennett Street, Theresa Str
 
 ## Glen Olive Garden Estate 1924
 
+The Glen Olive Garden Estate map shows: Glen Olive Drive, St. Lucia Road, and Gailey River Road.
+
 ![Glen Olive Garden Estate on the river bank Toowong](assets/maps/glen-olive-garden-estate.jpg){ width="45%" loading=lazy }
 
 *[Glen Olive Garden Estate on the river bank Toowong.](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21119287420002061) 1924, State Library of Queensland*
 
 ## Dean's Highlands Estate 1929
 
+Dean's Highlands Estate map shows: Miskin Street, Union Street, and Stanley Terrace. 
+
 ![Dean's Highlands Estate between Toowong and Taringa](assets/maps/deans-highlands-estate.jpg){ width="45%" loading=lazy }
 
 *[Dean's Highlands Estate between Toowong and Taringa.](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21104761260002061) 1929, State Library of Queensland*
 
 ## Eskmount Estate 1936
+
+The Eskmount Estate map shows: Burns Road, Aston Street, High Street and MacDonnel Street.
 
 ![Eskmount Estate, Toowong](assets/maps/eskmount-estate.jpg){ width="45%" loading=lazy }
 
