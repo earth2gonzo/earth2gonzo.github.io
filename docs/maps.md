@@ -145,7 +145,7 @@ The Rathdonnell Estate map shows: Heussler Terrace, Weinholt Street, Irving Stre
 
 The Curragh Bawn map shows: Sylvan Road, River Road, Bennett Street, Theresa Street, Landsbourough Terrace, and the Toowong Railway Station.
 
-![Curragh Bawn, Toowong.](assets/maps/curragh-bawn-1922.jpg){ width="45%" }
+![Curragh Bawn, Toowong.](assets/maps/curragh-bawn.jpg){ width="45%" }
 
 *[Curragh Bawn, Toowong.](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21190066110002061) 1922, State Library of Queensland*
 
