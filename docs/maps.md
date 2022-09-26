@@ -72,7 +72,7 @@ The Moore's Estate map shows: Sylvan Road, Church Street, the Toowong Railway St
 
 ## Sylvan Road Estate 1890
 
-![Sylvan Road Estate, Toowong](assets/maps/sylvan-road-estate-front.jpg){ width="45%" } ![Sylvan Road Estate, Toowong](assets/maps/sylvan-road-estate-back.jpg){ width="45%" loading=lazy }
+![Sylvan Road Estate, Toowong](assets/maps/sylvan-road-estate-front.jpg){ width="45%" } ![Sylvan Road Estate, Toowong](assets/maps/sylvan-road-estate-back.jpg){ width="45%" }
 
 *[Sylvan Road Estate, Toowong.](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21198544550002061) 1890, State Library of Queensland*
 
@@ -140,7 +140,7 @@ The Stanley Terrace Estate map shows: Stanley Terrace, Miskin Road, and Union St
 
 ## Curragh Bawn 1922
 
-![Curragh Bawn, Toowong.](assets/maps/curragh-bawn.jpg){ width="45%" }
+![Curragh Bawn, Toowong.](assets/maps/curragh-bawn-1922.jpg){ width="45%" }
 
 *[Curragh Bawn, Toowong.](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21190066110002061) 1922, State Library of Queensland*
 
