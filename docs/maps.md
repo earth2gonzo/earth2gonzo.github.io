@@ -16,7 +16,7 @@ Kensington, near Toowong Station shows: Kensington Terrace, Moggill Road, Gore P
 
 ## Ivy Estate 1884 
 
-The Ivy Estate map shows: Ivy Street, Lodge Street, Mount Street, Bent Street, Orchard Street, Peel Street and Soudan Street.
+The Ivy Estate map shows: Ivy Street, Ivy Lodge House, Lodge Street, Mount Street, Bent Street, Orchard Street, Peel Street and Soudan Street.
 
 ![Ivy Estate, Toowong](assets/maps/ivy-estate.jpg){ width="45%" }
 
@@ -24,7 +24,7 @@ The Ivy Estate map shows: Ivy Street, Lodge Street, Mount Street, Bent Street, O
 
 ## Ironside Estate 1885 
 
-The Ironside Estate map shows: Sherwood Road, High Street, Kensington Terrace, Ashton Street, and Justling Street.
+The Ironside Estate map shows: Sherwood Road, Sherwood Grove, Union Athletic Club, High Street, Kensington Terrace, Ashton Street, and Justling Street.
 
 ![Ironside Estate, Toowong](assets/maps/ironside-estate.jpg){ width="45%" }
 
