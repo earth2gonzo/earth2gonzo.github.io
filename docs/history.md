@@ -4,7 +4,7 @@
 
 Toowong had its beginnings in the 1850s. By 1842 the Moreton Bay Convict Settlement had been disbanded and Moreton Bay was thrown open to free settlement.
 
-Margaret Deeth wrote in Toowong: a community’s history that the first land sales in the 1840s were made up in what is now the city centre, South Brisbane, Fortitude Valley and Kangaroo Point. The earliest links between Brisbane and Ipswich and the Darling Downs were the river and a road on its southern side, but in 1849, a shorter road on the north side of the river was surveyed and named Moggill Road. It ran from Brisbane, along River Road (Coronation Drive today), through what would become Toowong, to near the junction of the Bremer and Brisbane Rivers where the Moggill Ferry crossing still exists.
+Margaret Deeth wrote in **[Toowong: A Community’s History](books.md)** that the first land sales in the 1840s were made up in what is now the city centre, South Brisbane, Fortitude Valley and Kangaroo Point. The earliest links between Brisbane and Ipswich and the Darling Downs were the river and a road on its southern side, but in 1849, a shorter road on the north side of the river was surveyed and named Moggill Road. It ran from Brisbane, along River Road (Coronation Drive today), through what would become Toowong, to near the junction of the Bremer and Brisbane Rivers where the Moggill Ferry crossing still exists.
 
 In 1850 the area now known as Toowong was surveyed and divided into several large estates owned by families such as the Cribbs, Drews, Markwells and Maynes whose names have become familiar to local residents. The first recorded use of the name Toowong was in 1851 when J. C. Burnett marked Toowong Creek on the survey of lots for sale. The name was then used in 1862 as a boundary descriptor in Land Purchase Certificates for these lots.
 
@@ -26,4 +26,3 @@ Toowong was proclaimed a shire in 1880, and it became a ‘villa’ suburb attra
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ItI7i6hs0PA?start=4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
-
