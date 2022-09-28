@@ -4,11 +4,19 @@
 
 In the 1930s the Council decided to rename many streets in Brisbane to make their names unique. The names listed below are the names shown on the maps and may not be the street names in use today. 
 
+## Village of Nona c1865
+
+The Village of Nona maps shows: Moggill Road, Emma Street, and James Street. Read the about the Village of Nona in **[Toowong: 1863-2011](books.md)**.
+
+![Village of Nona](assets/maps/village-of-nona.jpg){ width="45%" }
+
+*Source unknown*
+
+:fontawesome-regular-hand-pointer: Click a historic map to expand the image. 
+
 ## Kensington 1874
 
 Kensington, near Toowong Station shows: Kensington Terrace, Moggill Road, Gore Place, and Holland Street.
-
-:fontawesome-regular-hand-pointer: Click a historic map to expand the image. 
 
 ![Plan of Kensington, Parish of Enoggera](assets/maps/kensington.jpg){ width="45%" }
 
