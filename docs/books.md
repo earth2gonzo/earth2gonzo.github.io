@@ -38,4 +38,4 @@ Order all three books for $60 including postage within Australia. Individual boo
 
 ## Collect and save
 
-Come to one of [our meetings](https://www.facebook.com/toowonghistorygroup/) and purchase the books for a special price of $15 each or $40 for all three.
+Come to one of **[our meetings](https://www.facebook.com/toowonghistorygroup/)** and purchase the books for a special price of $15 each or $40 for all three.
