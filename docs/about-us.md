@@ -6,7 +6,7 @@ So much of the heritage of Toowong was being lost when developers began changing
 
 In the year 2000 the [West Toowong Community Association](https://abr.business.gov.au/ABN/View/51823312836), which had been formed to protect their local area, decided to set up a History Group to research the families who had built their lives and their homes in Toowong over the past 150 years.
 
-The Toowong History Group was formed in 2000 to celebrate the 100^th^ anniversary of the short-lived Toowong Town (1903-1925); to record some local memories to ensure they were not lost with the passing of the older generations; and to entice more histories to come to the surface. It resulted in the production of [our first book](books.md).
+The Toowong History Group was formed in 2000 to celebrate the 100^th^ anniversary of the short-lived Toowong Town (1903-1925); to record some local memories to ensure they were not lost with the passing of the older generations; and to entice more histories to come to the surface. It resulted in the production of **[our first book](books.md)**.
 
 
 ## Contact us
