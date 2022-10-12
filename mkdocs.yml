@@ -5,7 +5,7 @@ theme:
 #  icon:
 #    logo: octicons/book-16
   palette:
-    primary: blue
+    primary: light blue
     accent: light blue  
   name: material
   font:
@@ -37,6 +37,7 @@ markdown_extensions:
 
 plugins:
   - search
+  - social
   - glightbox:
       touchNavigation: true
       loop: false
