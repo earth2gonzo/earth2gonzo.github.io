@@ -5,7 +5,7 @@ hide:
 
 # Toowong History Group
 
-**Toowong History Group preserve [the history of Toowong](history.md) through [historic photos](photos.md), [village maps](maps.md), [street name origins](streets.md), and [stories of district pioneers](books.md)**.
+**Toowong History Group preserves [the history of Toowong](history.md) through [historic photos](photos.md), [village maps](maps.md), [street name origins](streets.md), and [stories of district pioneers](books.md)**.
 
 The Toowong History Group meets every second month to discuss and share local history. Tea and coffee is served after the meeting. Everyone is welcome.
 
