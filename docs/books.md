@@ -34,7 +34,7 @@ If your family lived in Toowong in the past and you would like to know more abou
 
 Order all three books for $60 including postage within Australia. Individual books are $25 including postage. 
 
-[ Order one or more books  :material-email-fast: ](mailto:swha@ecn.net.au){ .md-button .md-button--primary }
+[ Order one or more books  :material-email-fast: ](mailto:history@toowong.au){ .md-button .md-button--primary }
 
 ## Collect and save
 

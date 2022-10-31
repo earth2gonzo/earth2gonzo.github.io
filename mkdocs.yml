@@ -21,7 +21,7 @@ extra:
       link: https://www.facebook.com/toowonghistorygroup/
       name: Facebook @toowonghistorygroup
     - icon: fontawesome/solid/envelope
-      link: mailto:swha@ecn.net.au
+      link: mailto:history@toowong.au
       name: Email us        
 
 markdown_extensions:

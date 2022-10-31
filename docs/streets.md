@@ -9,7 +9,7 @@ hide:
 
 Do you know other street origin stories? Email us and if it checks out, we'll add it here.
 
-[Share a Toowong street name origin story    :material-email-fast:  ](mailto:swha@ecn.net.au){ .md-button .md-button--primary }
+[Share a Toowong street name origin story    :material-email-fast:  ](mailto:history@toowong.au){ .md-button .md-button--primary }
 
 ## Toowong Street Name Origins
 

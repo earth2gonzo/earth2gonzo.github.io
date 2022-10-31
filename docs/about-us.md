@@ -12,7 +12,7 @@ The Toowong History Group was formed in 2000 to celebrate the 100^th^ anniversar
 ## Contact us
 You can contact us via: 
 
-- Email: **[swha@ecn.net.au](mailto:swha@ecn.net.au)**
+- Email: **[history@toowong.au](mailto:history@toowong.au)**
 - Phone: **[07 3870 3886](tel:0738703886)**
 - Facebook: **[@toowonghistorygroup](https://www.facebook.com/toowonghistorygroup/)**
 
