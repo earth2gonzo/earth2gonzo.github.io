@@ -1,3 +1,7 @@
+---
+description: Historic photos of Toowong
+---
+
 # Toowong Historic Photos
 
 **Historic photos of Toowong people, places and events.**

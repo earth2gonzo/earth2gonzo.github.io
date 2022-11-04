@@ -1,5 +1,5 @@
 ---
-description: Preserving the history of Toowong through stories, maps, and more
+description: Preserving Toowong's history through stories, maps, and more.
 ---
 
 # Toowong History Group

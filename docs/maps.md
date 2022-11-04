@@ -1,3 +1,7 @@
+---
+description: Historic maps of Toowong
+---
+
 # Historic Toowong Maps
 
 **Historic Toowong Maps of Toowong, from 1874 to 1936.**

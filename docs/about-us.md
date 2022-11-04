@@ -1,3 +1,7 @@
+---
+description: About the Toowong History Group
+---
+
 # About Us
 
 ## Our origins

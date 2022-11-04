@@ -1,3 +1,7 @@
+---
+description: A brief history of Toowong
+---
+
 # Toowong History
 
 **A brief history of Toowong by Marilyn England.**
