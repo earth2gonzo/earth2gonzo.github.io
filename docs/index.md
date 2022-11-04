@@ -1,3 +1,7 @@
+---
+description: Preserving the history of Toowong through stories, maps, and more
+---
+
 # Toowong History Group
 
 **Toowong History Group preserves [the history of Toowong](history.md) through [historic photos](photos.md), [village maps](maps.md), [street name origins](streets.md), and [stories of district pioneers](books.md)**.
