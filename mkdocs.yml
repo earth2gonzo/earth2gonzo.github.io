@@ -38,16 +38,16 @@ markdown_extensions:
 plugins:
   - search
   - social
-#  - glightbox:
-#      touchNavigation: true
-#      loop: false
-#      effect: fade
-#      width: 100%
-#      height: auto
-#      zoomable: true
-#      draggable: false
-#      auto_caption: true
-#      caption_position: bottom
+  - glightbox:
+      touchNavigation: true
+      loop: false
+      effect: fade
+      width: 100%
+      height: auto
+      zoomable: true
+      draggable: false
+      auto_caption: true
+      caption_position: bottom
 
 extra_css:
   - stylesheets/extra.css
