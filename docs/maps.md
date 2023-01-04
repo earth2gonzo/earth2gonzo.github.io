@@ -4,7 +4,7 @@ description: Historic maps of Toowong
 
 # Historic Toowong Maps
 
-**Historic Toowong Maps of Toowong, from 1874 to 1936.**
+**Historic Maps showing Toowong from 1874 to 1936.**
 
 In the 1930s the Council decided to rename many streets in Brisbane to make their names unique. The names listed below are the names shown on the maps and may not be the street names in use today. 
 
@@ -22,7 +22,7 @@ The Village of Nona maps shows: Moggill Road, Emma Street, and James Street. Rea
 
 Kensington, near Toowong Station shows: Kensington Terrace, Moggill Road, Gore Place, and Holland Street.
 
-![Plan of Kensington, Parish of Enoggera, 1874](assets/maps/kensington.jpg){ width="45%" }
+![Plan of Kensington, Parish of Enoggera, 1874](assets/maps/kensington.jpg){ width="90%" }
 
 *[Plan of Kensington, Parish of Enoggera, to be sold by auction by John Cameron at his mart, on Monday, 28th September, 1874.](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21112702950002061) State Library of Queensland*
 
@@ -30,9 +30,19 @@ Kensington, near Toowong Station shows: Kensington Terrace, Moggill Road, Gore P
 
 The Ivy Estate map shows: Ivy Street, Ivy Lodge House, Lodge Street, Mount Street, Bent Street, Orchard Street, Peel Street and Soudan Street.
 
-![Ivy Estate, Toowong, 1884](assets/maps/ivy-estate.jpg){ width="45%" }
+![Ivy Estate, Toowong, 1884](assets/maps/ivy-estate.jpg){ width="90%" }
 
 *[Ivy Estate, Toowong being subdivisions 1 to 172 of portion 294, and part of 293 : Parish of Enoggera.](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21112757610002061) 1884, State Library of Queensland*
+
+
+## South Toowong 1884 
+
+Map shows area near Ellerslie Crescent and Bellevue Parade, near Perrin Park in what is now Taringa.
+
+![South Toowong, 1884](assets/maps/south-toowong.jpg){ width="90%" }
+
+*[South Toowong : being 173 subdivisions of portion 36, Indooroopilly
+](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/1dejkfd/alma99183461219002061) 1884, State Library of Queensland*
 
 ## Ironside Estate 1885 
 
@@ -40,7 +50,34 @@ The Ironside Estate map shows: Sherwood Road, Sherwood Grove, Union Athletic Clu
 
 ![Ironside Estate, Toowong, 1885](assets/maps/ironside-estate.jpg){ width="45%" }
 
-*[Ironside Estate : river frontages, Toowong.](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21212460300002061) 1885, State Library of Queensland*
+*[Ironside Estate, Toowong, 1885](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21212460300002061).  State Library of Queensland*
+
+## Middenbury Estate 1885 
+
+Map shows allotments for sale in an area between the railway station on High Street and the Brisbane River in Toowong.
+
+![Middenbury Estate, Toowong, 1885](assets/maps/middenbury-estate.jpg){ width="45%" }
+
+*[Middenbury Estate](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/1dejkfd/alma99183481520102061), Toowong, 1885. State Library of Queensland*
+
+## Baroona Estate 1885 
+
+Map shows allotments for sale in an area between the railway station on High Street and the Brisbane River in Toowong.
+
+![The Baroona Estate, Toowong, 1885](assets/maps/baroona-estate.jpg){ width="45%" }
+
+*[The Baroona Estate To be sold by auction on the ground Saturday, Nov. 28, at two o'clock sharp.](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/1dejkfd/alma997586814702061), 1885. State Library of Queensland*
+
+## St. Lucia Estate 1885 
+
+Map shows an area in St Lucia with a river frontage opposite Boundary Road, West End, now part of the campus of the University of Queensland.
+
+![St. Lucia Estate, 1885](assets/maps/st-lucia-estate-1.jpg){ width="90%" } 
+
+![St. Lucia Estate, 1885](assets/maps/st-lucia-estate-2.jpg){ width="45%" }
+
+
+*[St. Lucia Estate](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/1dejkfd/alma99183469021102061), 1885. State Library of Queensland*
 
 ## Belgrave and Riverview Estate 
 
@@ -92,7 +129,7 @@ The Sylvan Road Estate map shows: Sylvan Road, Milton Road, Weinholt Street, and
 
 ## The Terraces Estate 1870-1900
 
-![The Terraces Estate, Toowong near the Toowong railway station](assets/maps/the-terraces.jpg){ width="45%" loading=lazy }
+![The Terraces Estate, Toowong near the Toowong railway station](assets/maps/the-terraces.jpg){ width="90%" loading=lazy }
 
 *[The Terraces [Estate], Toowong near the Toowong railway station / John Cameron, Auctioneer.](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21105015830002061) 1870-1900, State Library of Queensland*
 
@@ -106,14 +143,21 @@ The Sylvan Road Estate map shows: Sylvan Road, Milton Road, Weinholt Street, and
 
 The Dunmore Estate map shows: Auchenflower Railway Station, River Road, Dunmore Terrace, Eagle Terrace, Lang Parade, Chasley Street, Lima Street, Fortitude Street, Kingford Street, John Street, Ridley Street, Grimes Street, Aldridge Street, Hobbs Street, Challinor Street, and Milton Road.
 
-![Dunmore Estate Cribb's Paddock, Milton, 1899](assets/maps/dunmore-estate.jpg){ width="45%" loading=lazy }
+![Dunmore Estate Cribb's Paddock, Milton, 1899](assets/maps/dunmore-estate.jpg){ width="90%" loading=lazy }
 
 *[Dunmore Estate Cribb's Paddock, Milton / Isles, Love Land Agents ; D. F. Maclean, Surveryor.](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21104796330002061) 1899, State Library of Queensland*
 
+<!--
+
+The St Lucia Estate : comprising 269 charming building sites.
+https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/1dejkfd/alma99183458220302061
+190-?
+
+-->
 
 ## Brisbane Land Owners c1900
 
-![Brisbane Land Owners, c1900](assets/maps/brisbane-parish-land-owner-map-c1900.jpg){ width="45%" loading=lazy }
+![Brisbane Land Owners, c1900](assets/maps/brisbane-parish-land-owner-map-c1900.jpg){ width="90%" loading=lazy }
 
 *[Brisbane Parish Map showing landowners c1900.](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/search/asset/24597/0) Brisbane City Council Archives. Cropped.*
 
@@ -129,13 +173,13 @@ The Goldicott Estate map shows: Sherwood Road, Kensington Terrace, and Grove Str
 
 The Stanley Terrace Estate map shows: Stanley Terrace, Miskin Road, and Union Street.
 
-![Stanley Terrace Estate, Toowong, 1904](assets/maps/stanley-terrace-estate.jpg){ width="45%" loading=lazy }
+![Stanley Terrace Estate, Toowong, 1904](assets/maps/stanley-terrace-estate.jpg){ width="90%" loading=lazy }
 
 *[Stanley Terrace Estate Toowong : being 42 re subdivisions of Portion 257, Parish of Enoggera.](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21186734930002061) 1904, State Library of Queensland.* 
 
 ## Brisbane Street Map 1904
 
-![Brisbane Street Map, 1904](assets/maps/brisbane-street-map-1904.jpg){ width="45%" loading=lazy }
+![Brisbane Street Map, 1904](assets/maps/brisbane-street-map-1904.jpg){ width="90%" loading=lazy }
 
 *[Brisbane and suburbs, street and road map, with boundaries of local authorities](https://www.archivessearch.qld.gov.au/api/download_file/DR96381) Queensland State Archives, Item ID ITM634549. Cropped.* 
 

@@ -1,4 +1,5 @@
 ---
+title: Toowong History Group
 description: Preserving Toowong's history through stories, maps, and more.
 ---
 
