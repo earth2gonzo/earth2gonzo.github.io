@@ -26,6 +26,14 @@ Kensington, near Toowong Station shows: Kensington Terrace, Moggill Road, Gore P
 
 *[Plan of Kensington, Parish of Enoggera, to be sold by auction by John Cameron at his mart, on Monday, 28th September, 1874.](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21112702950002061) State Library of Queensland*
 
+## Parish of Enoggera, 1876
+
+Showing land owners and Brisbane General Cemetery and Toowong Station.
+
+![Plan of portions in the Parish of Enoggera, 1876](assets/maps/enoggera-parish-1876.jpg){ width="90%" }
+
+*[Plan of portions no.s 830b, 865, 866, 866a, 867, 867a & 868 to 872, Parish of Enoggera, County of Stanley, District of Moreton](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma997041034702061) State Library of Queensland. Cropped.*
+
 ## Ivy Estate 1884 
 
 The Ivy Estate map shows: Ivy Street, Ivy Lodge House, Lodge Street, Mount Street, Bent Street, Orchard Street, Peel Street and Soudan Street.
