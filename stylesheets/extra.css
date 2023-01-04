@@ -1,0 +1,39 @@
+  /* banded rows */
+  tr:nth-child(even) {
+    background-color: #2094f322; 
+  }
+  
+  th {
+    background-color: #2094f3;
+    color: white;
+    text-align: left; 
+  }
+  
+  /* compress table layout */
+  
+  .md-typeset table:not([class]) th,
+  .md-typeset table:not([class]) td {
+      padding: 6px 10px;
+  }
+  
+
+  
+  /* YouTube embed */
+.video-wrapper {
+  position: relative;
+  display: block;
+  height: 0;
+  padding: 0;
+  overflow: hidden;
+  padding-bottom: 56.25%;
+}
+
+.video-wrapper > iframe {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
