@@ -4,9 +4,19 @@ description: Historic maps of Toowong
 
 # Historic Toowong Maps
 
-**Historic Maps showing Toowong from 1874 to 1936.**
+**Historic Maps showing Toowong from 1861 to 1936.**
 
 In the 1930s the Council decided to rename many streets in Brisbane to make their names unique. The names listed below are the names shown on the maps and may not be the street names in use today. 
+
+## Toowong Cemetery Reservation c1861
+
+Map showing the Toowong Cemetery Reservation.
+
+![Toowong Cemetery Reservation c1861](assets/maps/toowong-cemetery-reserve-1861.jpg){ width="90%" }
+
+[City of Brisbane, County of Stanley, showing Toowong Cemetery Reservation; being sheet 1b of a 20 chain grid series. 20 chains to the inch. Survey Office, Brisbane.](https://www.archivessearch.qld.gov.au/items/ITM634480), ca. 1861 — Queensland State Archives. Cropped.
+
+:fontawesome-regular-hand-pointer: Click a historic map to expand the image. 
 
 ## Village of Nona c1865
 
@@ -15,8 +25,6 @@ The Village of Nona maps shows: Moggill Road, Emma Street, and James Street. Rea
 ![Village of Nona c1865](assets/maps/village-of-nona.jpg){ width="45%" }
 
 *Source unknown*
-
-:fontawesome-regular-hand-pointer: Click a historic map to expand the image. 
 
 ## Kensington 1874
 
